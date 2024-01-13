@@ -3,6 +3,6 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=IJproject&show_icons=true&theme=dracula" />
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=IJproject&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=darkhub&margin-w=5)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=IJproject&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=darkhub&margin-w=5) -->
 
 ![](https://komarev.com/ghpvc/?username=IJproject&color=blue)
