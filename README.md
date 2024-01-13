@@ -4,3 +4,5 @@
 </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=IJproject&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=darkhub&margin-w=5)
+
+![](https://komarev.com/ghpvc/?username=IJproject&color=blue)
