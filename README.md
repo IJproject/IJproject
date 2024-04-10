@@ -6,13 +6,12 @@
 [![My Skills](https://skillicons.dev/icons?i=npm,vite,vitest)](https://skillicons.dev)<br>
 
 ### backend
+<!-- go -->
 [![My Skills](https://skillicons.dev/icons?i=php,python)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
 
 ### infra
-[![My Skills](https://skillicons.dev/icons?i=aws,vercel)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,aws,vercel,docker,mysql)](https://skillicons.dev)<br>
 
 <!-- ### mobile
 [![My Skills](https://skillicons.dev/icons?i=swift,kotlin)](https://skillicons.dev)<br>
@@ -21,6 +20,13 @@
 
 ### tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,notion,postman)](https://skillicons.dev)
+
+### others
+[![My Skills](https://skillicons.dev/icons?i=md,latex)](https://skillicons.dev)
+
+### 萌え
+[![My Skills](https://skillicons.dev/icons?i=bun,pug)](https://skillicons.dev)
+
 
 ## 統計
 
